@@ -139,9 +139,9 @@ Step 2: Run Backend
 cd backend
 mvn spring-boot:run
 Step 3: Access Application
-Backend API: http://localhost:8080
-Swagger UI: http://localhost:8080/swagger-ui.html
-H2 Console: http://localhost:8080/h2-console
+Backend API: http://localhost:8081
+Swagger UI: http://localhost:8081/swagger-ui.html
+H2 Console: http://localhost:8081/h2-console
 🧪 Testing Tools
 Postman for API testing
 Swagger UI for API documentation
